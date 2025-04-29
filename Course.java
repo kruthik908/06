@@ -13,9 +13,9 @@ public class Course {
             System.out.println("Course: " +courseName[i]+ " Marks: "+marks[i]);
         }
     }
-}
 
-class Main { 
+
+
     public static void main(String[] args) {
         String[] courseNames = {"OOPS", "JAVA", "C++"};
         int[] marks = {85, 90, 88};
